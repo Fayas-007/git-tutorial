@@ -1,1 +1,1 @@
-console.log("Change 23");
+console.log("Change");
